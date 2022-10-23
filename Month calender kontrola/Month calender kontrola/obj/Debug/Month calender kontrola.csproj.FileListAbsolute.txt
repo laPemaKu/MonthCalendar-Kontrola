@@ -1,0 +1,11 @@
+C:\Users\LaPeM\source\repos\Month calender kontrola\Month calender kontrola\bin\Debug\Month calender kontrola.exe.config
+C:\Users\LaPeM\source\repos\Month calender kontrola\Month calender kontrola\bin\Debug\Month calender kontrola.exe
+C:\Users\LaPeM\source\repos\Month calender kontrola\Month calender kontrola\bin\Debug\Month calender kontrola.pdb
+C:\Users\LaPeM\source\repos\Month calender kontrola\Month calender kontrola\obj\Debug\Month calender kontrola.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\Month calender kontrola\Month calender kontrola\obj\Debug\Month calender kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\Month calender kontrola\Month calender kontrola\obj\Debug\Month_calender_kontrola.Form1.resources
+C:\Users\LaPeM\source\repos\Month calender kontrola\Month calender kontrola\obj\Debug\Month_calender_kontrola.Properties.Resources.resources
+C:\Users\LaPeM\source\repos\Month calender kontrola\Month calender kontrola\obj\Debug\Month calender kontrola.csproj.GenerateResource.cache
+C:\Users\LaPeM\source\repos\Month calender kontrola\Month calender kontrola\obj\Debug\Month calender kontrola.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\Month calender kontrola\Month calender kontrola\obj\Debug\Month calender kontrola.exe
+C:\Users\LaPeM\source\repos\Month calender kontrola\Month calender kontrola\obj\Debug\Month calender kontrola.pdb
